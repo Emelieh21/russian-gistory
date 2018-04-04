@@ -1,0 +1,38 @@
+fsuadmg.shp*
+Geographic Projection
+Units Decimal Degrees
+Spheroid or Radius 6370997.0 meters
+-----------------------------------
+
+fsuadmla.shp*
+
+
+Lambert Azimuthal Equal Area
+For IDRISI
+ref. system : Lambert Azimuthal Equal Area for FSU
+projection  : Lambert Transverse Azimuthal Equal Area
+datum       : 
+delta WGS84 : 0 0 0
+ellipsoid   : Sphere 
+major s-ax  : 6370997.0001
+minor s-ax  : 6370996.9999
+origin long : 104.5
+origin lat  : 56.5
+origin X    : 0
+origin Y    : 0
+scale fac   : na
+units       : m
+parameters  : 0
+
+
+For Arc Info
+
+projection lambert_azimuthal
+units meters
+spheroid sphere
+parameters
+longitude of central meridian: 104 30 0.0
+latitude of origin: 56 30 0.0
+Radius of sphere: 6370997.0
+false easting 0.0
+false northing 0.0
