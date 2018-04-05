@@ -12,7 +12,7 @@ On the job: Emelie and Olav.
 
 See examples for historical GIS for whole countries at https://www.gislounge.com/find-gis-data-historical-country-boundaries/
 
-See shapefile with data for the Former Soviet Union (FSU) for 1995/7 (?) by ESRI (1998) at https://daac.ornl.gov/RLC/guides   /RLC_admin_bound.html
+See shapefile with data for the Former Soviet Union (FSU) for 1995/7 (?) by Distributed Active Archive Center (1998) at https://daac.ornl.gov/RLC/guides/RLC_admin_bound.html
 
 
 2. Collect historical data (in .xls format) on the Soviet Union's state-run catering system (общественное питание) on a regional level, focussing on the three time-slices proposed above. First dataset should contain simple numbers of different types of catering establishments. Other data, such as revenue, total number of seats and output of dishes can be collected in later stages.
