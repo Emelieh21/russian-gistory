@@ -30,6 +30,8 @@ Potential deliverables: maps, maps, maps!
 
 On the job: Emelie
 
-_Premature draft_
+_Premature drafts_
+
+![image](assets/2018-04-14_caterings_1985.png)
 
 ![image](/assets/2018-04-02_draft.jpg)
