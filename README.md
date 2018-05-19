@@ -32,6 +32,8 @@ On the job: Emelie
 
 _Premature drafts_
 
+![image](assets/2018-05-19_caterings_1967.png)
+
 ![image](assets/2018-04-14_caterings_1985.png)
 
 ![image](/assets/2018-04-02_draft.jpg)
