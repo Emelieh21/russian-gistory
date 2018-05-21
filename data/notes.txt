@@ -1,0 +1,12 @@
+2018-05-21:
+* Population numbers for 1967 for the 9 missing countries:
+1   Azerbaijan
+2      Georgia
+3   Kazakhstan
+4   Kyrgyzstan
+5       Russia
+6   Tajikistan
+7 Turkmenistan
+8      Ukraine
+9   Uzbekistan
+Have been looked up on google.
